@@ -36,7 +36,7 @@
     
     {"id":18,"name":"Antenna Morty","status":"Alive","species":"Human","type":"Human with antennae","gender":"Male","origin":"unknown","location":"Citadel of Ricks","image":"https://rickandmortyapi.com/api/character/avatar/18.jpeg","created":"2017-11-04T22:25:29.008Z"},
     
-    {"id":19,"name":"Antenna Rick","status":"unknown","species":"Human","type":"Human with antennae","gender":"Male","origin":"unknown","location":"unknown","image":"https://rickandmortyapi.com/api/character/avatar/19.jpeg","created":"2017-11-04T22:28:13.756Z"},
+    {"id":19,"name":"Armagheadon","status":"Alive","species":"Alien","type":"Cromulon","gender":"Male","origin":{"name":"Signus 5 Expanse"},"location":{"name":"Signus 5 Expanse"},"image":"https://rickandmortyapi.com/api/character/avatar/24.jpeg","created":"2017-11-05T08:48:30.776Z"},
     
     {"id":20,"name":"Ants in my Eyes Johnson","status":"unknown","species":"Human","type":"Human with ants in his eyes","gender":"Male","origin":"unknown","location":"Interdimensional Cable","image":"https://rickandmortyapi.com/api/character/avatar/20.jpeg","created":"2017-11-04T22:34:53.659Z"}
     ]
